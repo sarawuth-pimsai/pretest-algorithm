@@ -1,16 +1,17 @@
 # Algorithm
 ## Pair Array Number
-##### Example
-##### Inputs
+### Example
+#### Inputs
 ```
 array1 = [0, 2, 4, 5, 6, 5]
 const array2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4]
 const sum = 1
 ```
-##### Output
+#### Output
 ```
 [ [ 0, 1 ] ]
 ```
+#### Coding
 ```javascript
 const trans = (arr) => {
     let data = {}
