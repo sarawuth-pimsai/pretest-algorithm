@@ -54,7 +54,7 @@ const sum = 1
 const result = pair(array1, array2, sum)
 console.log(result)
 ```
-#### Coding Random
+#### Coding Random (Array1, Array2, Sum)
 ```javascript
  const trans = (arr) => {
     let data = {}
